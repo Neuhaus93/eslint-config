@@ -1,0 +1,6 @@
+{
+    "extends": "./rules/base.js",
+    "env": {
+        "node": true
+    }
+}
