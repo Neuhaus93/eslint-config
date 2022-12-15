@@ -5,9 +5,9 @@ module.exports = {
         "plugin:jsx-a11y/recommended",
         "plugin:react/jsx-runtime",
     ],
-    "settings": {
-        "react": {
-            "version": "detect",
+    settings: {
+        react: {
+            version: "detect",
         },
     },
 };

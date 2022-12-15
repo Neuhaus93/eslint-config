@@ -1,5 +1,5 @@
 {
-    "extends": "./rules/base.js",
+    "extends": ["./eslint/base", "prettier"],
     "env": {
         "node": true
     }
