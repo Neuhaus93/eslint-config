@@ -6,7 +6,7 @@
         "./eslint": "./eslint/index.js",
         "./eslint/base": "./eslint/base.js",
         "./eslint/react": "./eslint/react.js",
-        "./prettier": "./prettier.js",
+        "./prettier": "./prettier/index.js",
         "./package.json": "./package.json"
     },
     "devDependencies": {
